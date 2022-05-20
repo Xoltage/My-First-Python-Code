@@ -1,0 +1,17 @@
+
+
+print("Hello im Carl your Personal Barista")
+
+CustomerName = input("What is your name? ")
+
+print("Hello " + CustomerName + " How are you Today!")
+
+print("Alright! " + CustomerName + " Have a Seat")
+
+menu =  "Fry Fish\n" + " Curry Lobster\n" + " King Crab\n"
+
+order = input("What would you like?, Here is the Menu!\n " + menu )
+
+input("Alright, Order Confirmation! You Ordered " + order + " Correct? ")
+
+print("Alright I will take this in for You!")
